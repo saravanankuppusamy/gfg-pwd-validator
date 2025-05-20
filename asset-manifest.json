@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gfg-password-validator/static/css/main.e6c13ad2.css",
+    "main.js": "/gfg-password-validator/static/js/main.1ecd23a5.js",
+    "static/js/453.00098d98.chunk.js": "/gfg-password-validator/static/js/453.00098d98.chunk.js",
+    "index.html": "/gfg-password-validator/index.html",
+    "main.e6c13ad2.css.map": "/gfg-password-validator/static/css/main.e6c13ad2.css.map",
+    "main.1ecd23a5.js.map": "/gfg-password-validator/static/js/main.1ecd23a5.js.map",
+    "453.00098d98.chunk.js.map": "/gfg-password-validator/static/js/453.00098d98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1ecd23a5.js"
+  ]
+}
